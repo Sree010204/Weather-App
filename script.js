@@ -1,3 +1,4 @@
+// this is javascript code for weather application
 const apiKey ="5ed247f547d0bedc48fa3b2ca421d2fd";
 
 const apiUrl="https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
